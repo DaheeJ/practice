@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Comp1 from './MyComps/01-comp';
-import Menu1 from './MyComps/03-bt.menu';
+import Menu1 from './MyComps/03-bt-menu';
 import Banda from './MyComps/02-pic';
 
 
@@ -16,7 +16,7 @@ const MainCont = () => {
         <Comp1 />
         <Menu1 />
         <Banda />
-        <p>Dahee's</p>
+        <p>It's working!!!</p>
         </div>
     );
 }

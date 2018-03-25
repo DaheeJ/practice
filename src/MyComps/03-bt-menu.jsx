@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, NavItem, NavLink } from 'reactstrap';
+import { NavLink, NavItem, Nav } from 'reactstrap';
 
 const Menu1 = () => {
     let btn1 = {
